@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - liblayout 
+# ELS - Enterprise Linux/EuroLinux Sources - liblayout
+ 
 ## Usage:
   Checkout branch or tag.
